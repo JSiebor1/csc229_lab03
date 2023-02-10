@@ -21,6 +21,8 @@ public class NewClass {
     }                                                   // 11+2N
 }                                                       // T(n)=O(N)
 ```
+The computed Big O for this algorithm is O(N).
+
 <details open>
 <summary>A lengthy proof</summary>
 <br>
