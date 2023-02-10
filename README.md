@@ -23,7 +23,7 @@ public class NewClass {
 ```
 The computed Big O for this algorithm is O(N).
 
-<details open>
+<details>
 <summary>A lengthy proof</summary>
 <br>
 arr=[0,1,2]
